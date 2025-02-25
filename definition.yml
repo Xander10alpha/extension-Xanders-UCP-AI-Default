@@ -1,0 +1,13 @@
+name: Xanders-UCP-AI-Default
+display-name: Xanders-UCP-AI-Default
+type: plugin
+author: Xander10alpha
+version: 1.0.0
+dependencies:
+  graphicsApiReplacer: ^1.2.0
+  startResources: ^1.0.0
+  ucp2-legacy: ^2.15.1
+meta:
+  Version: 1.0.0
+
+
